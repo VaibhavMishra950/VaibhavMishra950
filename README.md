@@ -1,16 +1,17 @@
 ### Hi there 👋
+<span style="font-family: 'Lucida Console'; font-size: 3em">
+console.log("Hello World :wave:")
+</span>
 
-<!--
-**VaibhavMishra950/vaibhavmishra950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me :man_technologist:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const me = {
+  name: "Vaibhav Mishra",
+  languages: ["Python", "CSS", "HTML", "JavaScript", "NodeJS", "C/C++"],
+  tools: ["MySQL", "MongoDB", "Thunder Client"],
+  frameworks: "ReactJS",
+  backend: ["Django", "ExpressJS"],
+  website: "https://itsvaibhav.me/"
+};
+```

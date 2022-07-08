@@ -1,6 +1,4 @@
-<span style="font-family: 'Monospace'; font-size: 4em">
-console.log("Hello World :wave:")
-</span>
+# console.log("Hello World :wave:")
 
 ## About me :man_technologist:
 

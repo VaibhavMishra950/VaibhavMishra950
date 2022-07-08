@@ -1,5 +1,4 @@
-### Hi there 👋
-<span style="font-family: 'Lucida Console'; font-size: 3em">
+<span style="font-family: 'Monospace'; font-size: 4em">
 console.log("Hello World :wave:")
 </span>
 

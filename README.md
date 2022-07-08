@@ -1,6 +1,6 @@
 # console.log("Hello World :wave:")
 
-<img src="https://raw.githubusercontent.com/VaibhavMishra950/vaibhavmishra950/main/assets/banner.png" width="3000">
+<img src="https://raw.githubusercontent.com/VaibhavMishra950/vaibhavmishra950/main/assets/banner.png" align="center">
 
 ## About me :man_technologist:
 

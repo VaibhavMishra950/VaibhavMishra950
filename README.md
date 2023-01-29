@@ -9,8 +9,8 @@ const me = {
   name: "Vaibhav Mishra",
   languages: ["Python", "CSS", "HTML", "JavaScript", "NodeJS", "C/C++"],
   tools: ["MySQL", "MongoDB", "RapidAPI Client"],
-  frameworks: "ReactJS",
+  frameworks: ["ReactJS", "NextJS"],
   backend: ["Django", "ExpressJS"],
-  website: "https://itsvaibhav.me/"
+  website: "https://itsvaibhav.web.app/"
 };
 ```
